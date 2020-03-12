@@ -1,4 +1,4 @@
-![DA-ETSIINF](./DAETSIINF.png)
+![DA-ETSIINF](https://raw.githubusercontent.com/DA-ETSIINF/covid19-asignaturas/master/docs/DAETSIINF.PNG)
 
 # Asignaturas
 Si ves algún error o crees que deberíamos añadir algo, haznolo saber por [GitHub](https://github.com/DA-ETSIINF/covid19-asignaturas/issues/new)
